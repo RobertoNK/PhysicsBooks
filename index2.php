@@ -1,5 +1,4 @@
-<?php
-echo <<<_mierda
+
 <html>
     <head>
         <link rel="stylesheet" href="estilo.css" type="text/css">
@@ -67,5 +66,4 @@ echo <<<_mierda
 </div>
     </body>
 </html>
-_mierda;
-?>
+
